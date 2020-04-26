@@ -1,0 +1,82 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="karnovski.com/teamate" resolutions="1x" timestamp="1587892727809">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4267984065" ref="index"/>
+    <file name="iefonts_index.css" crc="140588135" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="128606099" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u776.php" crc="4172257172" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="slider.jpg" crc="4025618318" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="max-mckinnon-c9ocwlka764-unsplash.jpg" crc="4237062473" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="copy of constella - one pager (2)-crop-u1424.jpg" crc="3776484432" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="copy of constella - one pager-crop-u1431.jpg" crc="247618897" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1427-4.png" crc="4172644500" ref="index"/>
+    <file name="launch-rocket copy.png" crc="422495571" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="800_3498246_5d75ef35a109574384543fc3021c218929fdf563.png" crc="3827413267" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7992a2e7cfaba40a162ebcc539330db4 copy.png" crc="476274383" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7.jpg" crc="4010902154" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled design (4).jpg" crc="4220327095" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="medium-512 copy.png" crc="4049152407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="person-male copy.png" crc="343006974" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linkedin-icon-png copy.png" crc="240295909" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8.jpg" crc="4084910774" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled design (6).jpg" crc="3791357644" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9.jpg" crc="4168160900" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled design (5).jpg" crc="4260350149" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="constella blue transparent-crop-u1000.png" crc="3960951913" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="105599242" seo="true" mt="1587892364730" redirect="true"/>
+</manifest>
